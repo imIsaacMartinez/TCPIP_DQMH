@@ -19,6 +19,8 @@
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="Get Module Execution Status Argument--cluster.ctl" Type="VI" URL="../Get Module Execution Status Argument--cluster.ctl"/>
 				<Item Name="Connect To TCP Server Argument--cluster.ctl" Type="VI" URL="../Connect To TCP Server Argument--cluster.ctl"/>
+				<Item Name="Choose selector Argument--cluster.ctl" Type="VI" URL="../Choose selector Argument--cluster.ctl"/>
+				<Item Name="Choose selector (Reply Payload)--cluster.ctl" Type="VI" URL="../Choose selector (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -32,6 +34,7 @@
 			<Item Name="Stop Module.vi" Type="VI" URL="../Stop Module.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Connect To TCP Server.vi" Type="VI" URL="../Connect To TCP Server.vi"/>
+			<Item Name="Choose selector.vi" Type="VI" URL="../Choose selector.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
